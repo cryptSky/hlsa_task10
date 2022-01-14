@@ -1,7 +1,5 @@
 # Autocomplete search
 
-![](https://i.ibb.co/cw45tyM/vue-nest-elastic-1.jpg)
-
 ## Setup project
         
 ### How to setup local
